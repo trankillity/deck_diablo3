@@ -1,7 +1,7 @@
-# Diablo 3 on Deck Readme
-This is a guide on how best to use my controller configuration for Diablo 3 on the Steam Deck.
+# Diablo III on Deck Readme
+This is a guide on how best to use my controller configuration for Diablo III on the Steam Deck.
 
-Diablo 3 on console has excellent controls (and some great QOL changes), but Blizzard are yet to bring them over to the PC client. I've spent many hours tinkering with the configuration to get it to a stage of being very close to emulating the console controls.
+Diablo III on console has excellent controls (and some great QOL changes), but Blizzard are yet to bring them over to the PC client. I've spent many hours tinkering with the configuration to get it to a stage of being very close to emulating the console controls.
 
 [![Full Layout](images/layout.png "Full Layout")](https://raw.githubusercontent.com/trankillity/deck_diablo3/main/images/layout.png)
 
@@ -14,15 +14,15 @@ If you use any channeled skills, they must be bound to RMB (R2) or LMB (R1) beca
 
 ## Installing Layout
 <!-- ##### Easy option -->
-1. Name your non-Steam Diablo 3 shortcut "Diablo III"
-1. Look in Community Layouts for "Diablo III for Deck" by "trankillity"
+1. Make sure you name your non-Steam shortcut "Diablo III" so that Steam knows where to search for community layouts.
+1. Look in Community Layouts for "Diablo III for Deck" by "trankillity".
 1. Apply the layout and enjoy!
 <!-- ##### Harder option
 1. Paste this URL into a browser in desktop mode on your Steam Deck - 
 1.  -->
 > If you are having trouble, feel free to reach out to me on the Steam Deck discord.
 
-## Important Diablo 3 settings
+## Important Diablo III settings
 * Bind Force Move to Mouse Wheel Down (used for forcing movement and allowing the client to look like those who use the Logitech mouse trick)
 * Bind all other keys to default
 * Set "Voice" volume to 0 (or you will get many "Not enough rage/mana/hatred" error lines)
