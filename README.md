@@ -20,7 +20,7 @@ If you use any channeled skills, they must be bound to RMB (R2) or LMB (R1) beca
 <!-- ##### Harder option
 1. Paste this URL into a browser in desktop mode on your Steam Deck - 
 1.  -->
-> If you are having trouble, feel free to reach out to me on the Steam Deck discord.
+> If you are having trouble, feel free to reach out to me on the Steam Deck discord. Layout is also available at this URI steam://controllerconfig/diablo%20iii/2854432738
 
 ## Important Diablo III settings
 * Bind Force Move to Mouse Wheel Down (used for forcing movement and allowing the client to look like those who use the Logitech mouse trick)
