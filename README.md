@@ -3,7 +3,7 @@ This is a guide on how best to use my controller configuration for Diablo 3 on t
 
 Diablo 3 on console has excellent controls (and some great QOL changes), but Blizzard are yet to bring them over to the PC client. I've spent many hours tinkering with the configuration to get it to a stage of being very close to emulating the console controls.
 
-[![Full Layout](images/layout.png "Full Layout")](./images/layout.png)
+[![Full Layout](images/layout.png "Full Layout")](https://raw.githubusercontent.com/trankillity/deck_diablo3/main/images/layout.png)
 
 ## Recommended skill setup/usage
 I find that using the left track pad feels more natural than using the joystick as it's hard to be precise with the joystick due to dead zone, but easy with the trackpad. Both options are there however. When moving and aiming with the left stick or trackpad, hold L2 to force you to stand still when casting any abilities.
