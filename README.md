@@ -13,14 +13,14 @@ Any buffs or cooldown abilities should be bound in your 1-4 slot. If you are at 
 If you use any channeled skills, they must be bound to RMB (R2) or LMB (R1) because holding any of the face buttons will trigger a repeating press of those buttons rather than holding it which will break your channel.
 
 ## Installing Layout
-<!-- ##### Easy option -->
+##### Easy option
 1. Make sure you name your non-Steam shortcut "Diablo III" so that Steam knows where to search for community layouts.
 1. Look in Community Layouts for "Diablo III for Deck" by "trankillity".
 1. Apply the layout and enjoy!
-<!-- ##### Harder option
-1. Paste this URL into a browser in desktop mode on your Steam Deck - 
-1.  -->
-> If you are having trouble, feel free to reach out to me on the Steam Deck discord. Layout is also available at this URI steam://controllerconfig/diablo%20iii/2854432738
+##### Harder option
+1. Paste this URL into a browser in desktop mode on your Steam Deck - `xdg-open steam://controllerconfig/diablo%20iii/2854432738`
+
+> If you are having trouble, feel free to reach out to me on the Steam Deck discord.
 
 ## Important Diablo III settings
 * Bind Force Move to Mouse Wheel Down (used for forcing movement and allowing the client to look like those who use the Logitech mouse trick)
@@ -47,9 +47,6 @@ If you use any channeled skills, they must be bound to RMB (R2) or LMB (R1) beca
 
 ## To-do
 * [Docs] Video demonstrating all the controls.
-* [Docs] Upload raw config file for people to download directly.
-* [Docs] Guide on how to install raw config file.
 * [Config] One-button repair.
 * [Config] One-button salvage.
 * [Config] Force the "stand still" button to cancel auto-move if it's enabled.
-* [Config] Consider moving "stand still" button to reclaim another trigger.
