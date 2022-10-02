@@ -18,7 +18,7 @@ If you use any channeled skills, they must be bound to RMB (R2) or LMB (R1) beca
 1. Look in Community Layouts for "Diablo III for Deck" by "trankillity".
 1. Apply the layout and enjoy!
 ##### Harder option
-1. Paste this URL into a browser in desktop mode on your Steam Deck - `xdg-open steam://controllerconfig/diablo%20iii/2854432738`
+1. Paste this into Konsole in desktop mode on your Steam Deck - `xdg-open steam://controllerconfig/diablo%20iii/2854432738`
 
 > If you are having trouble, feel free to reach out to me on the Steam Deck discord.
 
